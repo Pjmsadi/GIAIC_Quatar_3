@@ -18,12 +18,9 @@ This app is designed to:
 ✅ **Download your profile summary** as a `.txt` file  
 ✅ Built using **OOP structure** for clean and maintainable code
 
-## 🖼️ Preview
-
-![Preview Screenshot](screenshot.png) <!-- Replace with actual screenshot if you have -->
 
 ## 🛠️ Technologies Used
 
 - [Streamlit](https://streamlit.io/)
-- Python 3
+- Python
 - OOP principles
